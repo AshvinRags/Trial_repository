@@ -1,4 +1,4 @@
-this is a trial 
+this is a trial this is an edit in the second_branch
 hello
 third line
 This is a commit I make
